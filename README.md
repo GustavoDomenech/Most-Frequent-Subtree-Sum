@@ -7,7 +7,9 @@ A soma da subárvore de um nó é definida como a soma de todos os valores do n�
 
 # Casos Testados:
 root = [5,2,-3]
+
 root = [5,2,-5]
+
 root = [5,4,3,2,8,9,15,23,-8,-2,-3]
 
 # Problemas em Aula
