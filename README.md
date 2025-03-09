@@ -1,4 +1,4 @@
-# Gustavo Donenech de Souza - Turma M1
+# Gustavo Domenech de Souza - Turma M1
 
 # Most Frequent Subtree Sum
 Dada a raiz de uma árvore binária, retorne a soma da subárvore mais frequente. Se houver empate, retorne todos os valores com a frequência mais alta em qualquer ordem.
